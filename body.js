@@ -1990,22 +1990,22 @@ zk.ev.on('group-participants.update', async (group) => {
                 if((conf.DP).toLowerCase() === 'yes') {     
 
                 let cmsg =` ⁠⁠⁠⁠
-
-   _BOT🦚CONNECTED_
-
+┌─────═━┈┈━═─────┐
+  _BOT🦚CONNECTED✅️_
+└─────═━┈┈━═─────┘
 ║ Prefix: [ ${prefixe} ]
 ║ Mode: ${md}
 ║ Model: Spark-X
 ║ Bot Name: Cyberion-Spark-X 
-║ Owner: Dr.Carl William
-
--_-<-<-<-<-<-<-<--<-<-<-<-<-<
+║ Developer: 🕵Carl William
+▬ ▭ ▬ ▭ ▬ ▭ ▬ ▭ ▬ 
+────═━┈┈━═────═━┈┈━═─────┐
 
 *🪀Follow my channel for updates and free hacks🙃*
  
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
-*Heroku App Configuration*
+*Heroku bot details*
  
 *🐥Client name*
 > ${herokuAppName}
@@ -2016,7 +2016,7 @@ zk.ev.on('group-participants.update', async (group) => {
 *🦁Client Number*
 > ${botOwner}
 
--_-_-<€<€-<-<-<-<-<-<-<-<-<-<-<
+─────═━┈┈━═─────═━┈┈━═─────┘
                 
                  `;
                     
