@@ -95,12 +95,4 @@ adams({
         console.log("🥵🥵 Menu erreur " + e);
         repondre("🥵🥵 Menu erreur " + e);
     }
-});
-        }
-      }
-    });
-  } catch (_0x3e1d72) {
-    console.log("🥵🥵 Menu erreur " + _0x3e1d72);
-    _0x1814ea("🥵🥵 Menu erreur " + _0x3e1d72);
-  }
-});
+});      
