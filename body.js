@@ -918,7 +918,7 @@ function createNotification(deletedMessage) {
         timeStyle: 'medium',
     }).format(new Date());
 
-    let notification = `*[ANTIDELETE DETECTED]*\n\n`;
+    let notification = `*[🚮 ANTIDELETE DETECTED]*\n\n`;
     notification += `*Time:* ${timeInNairobi}\n`;
     notification += `*Deleted By:* @${deletedBy.split('@')[0]}\n\n`;
 
@@ -1499,69 +1499,6 @@ if (conf.AUTO_READ === 'yes') {
 
 
 
-    if (conf.ANTIDELETE === 'yes') { // Ensure the feature is enabled
-        zk.ev.on('messages.update', async (updates) => {
-            for (const update of updates) {
-                if (update.key && update.key.remoteJid && update.key.fromMe === false) {
-                    if (update.messageStubType === 8) { // 8 = Message Deleted
-                        const origineMessage = update.key.remoteJid; // Chat ID
-                        const messageId = update.key.id; // Deleted message ID
-                        const deletedMessage = zk.store.messages[origineMessage]?.get(messageId);
-
-                        if (deletedMessage) {
-                            const mtype = Object.keys(deletedMessage.message)[0]; // Message type (text, image, video, etc.)
-                            let msg;
-
-                            if (mtype === 'conversation' || mtype === 'extendedTextMessage') {
-                                // Deleted text message
-                                msg = {
-                                    text: `🛑 *Anti-Delete Detected*\n\nSender: @${
-                                        deletedMessage.key.participant || deletedMessage.key.remoteJid
-                                    }\nMessage: ${deletedMessage.message[mtype].text}`,
-                                    mentions: [deletedMessage.key.participant],
-                                };
-                            } else if (mtype === 'imageMessage' || mtype === 'videoMessage') {
-                                // Deleted image or video
-                                const mediaType = mtype === 'imageMessage' ? 'image' : 'video';
-                                const url = await zk.downloadMediaMessage(deletedMessage);
-                                msg = {
-                                    caption: `🛑 *Anti-Delete Detected*\n\nSender: @${
-                                        deletedMessage.key.participant || deletedMessage.key.remoteJid
-                                    }\nType: ${mediaType}`,
-                                    [mediaType]: url,
-                                    mentions: [deletedMessage.key.participant],
-                                };
-                            } else if (mtype === 'stickerMessage') {
-                                // Deleted sticker
-                                const stickerBuffer = await zk.downloadMediaMessage(deletedMessage);
-                                msg = {
-                                    sticker: stickerBuffer,
-                                };
-                            } else if (mtype === 'audioMessage') {
-                                // Deleted audio
-                                const audioBuffer = await zk.downloadMediaMessage(deletedMessage);
-                                msg = {
-                                    audio: audioBuffer,
-                                    mimetype: 'audio/mp4',
-                                };
-                            }
-
-                            // Send the saved content to the bot owner's number
-                            if (msg) {
-                                await zk.sendMessage(conf.NUMERO_OWNER + '@s.whatsapp.net', msg);
-                                console.log('Deleted message sent to bot owner.');
-                            }
-                        }
-                    }
-                }
-            }
-        });
-    }
-} catch (error) {
-    console.error('Error in Anti-Delete feature:', error);
-}
-
-
 
      //anti-lien
      try {
@@ -1944,13 +1881,10 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("Cyberion is connecting to your account...");
+                console.log("ℹ️ Cyberion is connecting...");
             }
             else if (connection === 'open') {
-       
-                      await zk.groupAcceptInvite("F5BXJci8EDS9AJ6sfKMXIS");
-                     
-                console.log("Cyberion connected successfully✔");
+                console.log("✅ Cyberion Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
