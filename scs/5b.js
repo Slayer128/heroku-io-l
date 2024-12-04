@@ -1,5 +1,5 @@
 
-const {
+/*const {
   adams
 } = require(__dirname + "/../Ibrahim/adams");
 const {
@@ -95,4 +95,4 @@ adams({
         console.log("🥵🥵 Menu erreur " + e);
         repondre("🥵🥵 Menu erreur " + e);
     }
-});      
+}); */     
