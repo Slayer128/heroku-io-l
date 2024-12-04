@@ -918,7 +918,7 @@ function createNotification(deletedMessage) {
         timeStyle: 'medium',
     }).format(new Date());
 
-    let notification = `*[🚮 ANTIDELETE DETECTED]*\n\n`;
+    let notification = `*[🚮 DELETED MESSAGE]*\n\n`;
     notification += `*Time:* ${timeInNairobi}\n`;
     notification += `*Deleted By:* @${deletedBy.split('@')[0]}\n\n`;
 
@@ -1925,15 +1925,15 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ┌─────═━┈┈━═─────┐
-  _BOT🦚CONNECTED✅️_
+  _BOT☢️CONNECTED✅️_
 └─────═━┈┈━═─────┘
-║ Prefix: [ ${prefixe} ]
-║ Mode: ${md}
-║ Model: Spark-X
-║ Bot Name: Cyberion-Spark-X 
-║ Developer: 🕵Carl William
+║ 📛Prefix: [ ${prefixe} ]
+║ 🔆Mode: ${md}
+║ ♋️Model: Spark-X
+║ ☯️Bot Name: Cyberion-Spark-X 
+║ 🛃Developer: 🕵Carl William
 ▬ ▭ ▬ ▭ ▬ ▭ ▬ ▭ ▬ 
-────═━┈┈━═────═━┈┈━═─────┐
+────═━┈┈━═──═━┈┈━═─────┐
 
 *🪀Follow my channel for updates and free hacks🙃*
  
@@ -1941,16 +1941,16 @@ zk.ev.on('group-participants.update', async (group) => {
 
 *Heroku bot details*
  
-*🐥Client name*
+*📲Client name*
 > ${herokuAppName}
 
-*🦋Visit your bot web*
+*🖥Visit your bot web*
 > ${herokuAppLink}
 
-*🦁Client Number*
+*📞Client Number*
 > ${botOwner}
 
-─────═━┈┈━═─────═━┈┈━═─────┘
+─────═━┈┈━═───═━┈┈━═─────┘
                 
                  `;
                     
