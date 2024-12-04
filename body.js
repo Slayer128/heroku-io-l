@@ -1933,7 +1933,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ║ ☯️Bot Name: Cyberion-Spark-X 
 ║ 🛃Developer: 🕵Carl William
 ▬ ▭ ▬ ▭ ▬ ▭ ▬ ▭ ▬ 
-────═━┈┈━═──═━┈┈━═─────┐
+───═━┈┈━═──═━┈┈━═─────┐
 
 *🪀Follow my channel for updates and free hacks🙃*
  
@@ -1950,7 +1950,7 @@ zk.ev.on('group-participants.update', async (group) => {
 *📞Client Number*
 > ${botOwner}
 
-─────═━┈┈━═───═━┈┈━═─────┘
+───═━┈┈━═───═━┈┈━═─────┘
                 
                  `;
                     
