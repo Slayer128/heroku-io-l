@@ -148,7 +148,7 @@
   },
   "AUTO_BIO": 
   {
-    "description": "put yes to activate auto bio,,else no..(use small letters",
+    "description": "put yes to activate auto bio,,else no..(use small letters)",
     "value": "yes",
     "required": false
   },
