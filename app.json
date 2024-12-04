@@ -40,7 +40,7 @@
       "required":false
     }
     ,
-"AUTO_LIKE_STATUS":
+"AUTO_REACT_STATUS":
     {
       "description":"The bot will like all posted updates automatically (type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
@@ -145,6 +145,19 @@
     "description": "new contacts will be automatically saved on your device type yes to activate,else no (use small letters)",
     "value": "no",
     "required": false
+  },
+  "AUTO_BIO": 
+  {
+    "description": "put yes to activate auto bio,,else no..(use small letters",
+    "value": "yes",
+    "required": false
+  },
+  "ANTI_CALL":
+  {
+    "description": "if this feature is active,any incoming whatsapp call will be rejected,put yes to activate,else put no...(use small letters)",
+    "value": "yes",
+    "required": false
+  },
   }
   },
 
