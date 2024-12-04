@@ -129,7 +129,7 @@
     "value":"",
     "required": false
   },
-  "ANTI_DELETE_MESSAGE" : {
+  "ANTIDELETE1" : {
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "no",
         "required": false
@@ -155,6 +155,12 @@
   "ANTI_CALL":
   {
     "description": "if this feature is active,any incoming whatsapp call will be rejected,put yes to activate,else put no...(use small letters)",
+    "value": "yes",
+    "required": false
+  },
+  "ANTEDELETE2":
+  {
+    "description": "put yes to activate this antidelete,else put no..(use small letters)",
     "value": "yes",
     "required": false
   }
