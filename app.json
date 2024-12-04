@@ -134,12 +134,14 @@
     "value": "no",
         "required": false
   },
-  "AUTO_REPLY": {
+  "AUTO_REPLY": 
+  {
     "descripton": "if you want your bot to make a fake reply when youre off,type yes to activate,else no (use small letters)",
     "value"; "no",
     "required": false
   },
-  "AUTO_SAVE_CONTACTS" {
+  "AUTO_SAVE_CONTACTS":
+  {
     "description": "new contacts will be automatically saved on your device type yes to activate,else no (use small letters)",
     "value": "no",
     "required": false
