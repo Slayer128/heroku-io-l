@@ -137,7 +137,7 @@
   "AUTO_REPLY": 
   {
     "descripton": "if you want your bot to make a fake reply when youre off,type yes to activate,else no (use small letters)",
-    "value"; "no",
+    "value": "no",
     "required": false
   },
   "AUTO_SAVE_CONTACTS":
