@@ -130,7 +130,7 @@
     "required": false
   },
   "ANTIDELETE1" : {
-    "description": "if you want to enable anti delete message put yes else put no",
+    "description": "if you want to enable anti delete message put yes else put no..(This messages are sent to your pm)",
     "value": "no",
         "required": false
   },
@@ -160,7 +160,7 @@
   },
   "ANTEDELETE2":
   {
-    "description": "put yes to activate this antidelete,else put no..(use small letters)",
+    "description": "put yes to activate this antidelete,else put no..(for live conversation;use small letters)",
     "value": "yes",
     "required": false
   }
