@@ -167,7 +167,7 @@ setInterval(async () => {
 // Function to handle deleted messages
 // Other functions (auto-react, anti-delete, etc.) as needed
         zk.ev.on("call", async (callData) => {
-  if (conf.ANTICALL === 'yes') {
+  if (conf.ANTI_CALL === 'yes') {
     const callId = callData[0].id;
     const callerId = callData[0].from;
 
