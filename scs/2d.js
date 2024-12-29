@@ -1,4 +1,71 @@
 
 
-
-const _0x6aa941=_0x15b8;(function(_0x185189,_0x28a81a){const _0x129743=_0x15b8,_0x594141=_0x185189();while(!![]){try{const _0x41b9c5=-parseInt(_0x129743(0xdc))/(-0xf1*0x13+0x1b8*0x6+0x794)+-parseInt(_0x129743(0x11a))/(0x1*0x7ea+0x2477+-0x133*0x25)+-parseInt(_0x129743(0x119))/(-0x17b9*0x1+-0xe20+0x25dc)*(-parseInt(_0x129743(0x129))/(-0x6d9*0x2+-0x2*-0xd96+-0xd76))+parseInt(_0x129743(0x11d))/(0x6*-0x1f1+-0x26c5*-0x1+0x1*-0x1b1a)*(-parseInt(_0x129743(0x13e))/(0x1*-0x23ad+0x7*0x40c+0x75f))+parseInt(_0x129743(0x12e))/(-0x1315*-0x2+-0xb*-0x1a5+-0x383a)+-parseInt(_0x129743(0x100))/(-0x6b9+0x5d*-0x59+0x2716*0x1)+parseInt(_0x129743(0xdb))/(0x20dd+-0x1ff1+-0x1*0xe3)*(parseInt(_0x129743(0xe7))/(-0x1*-0xfac+-0x26dd+0x1*0x173b));if(_0x41b9c5===_0x28a81a)break;else _0x594141['push'](_0x594141['shift']());}catch(_0x285c23){_0x594141['push'](_0x594141['shift']());}}}(_0x355e,0x53*-0x3625+-0x1369dc+0x30b9d0));function _0x15b8(_0x43bab8,_0x114d30){const _0x587fd4=_0x355e();return _0x15b8=function(_0x3fcfee,_0x3d1540){_0x3fcfee=_0x3fcfee-(-0x1d7d*-0x1+-0x1*-0x2f7+-0x1*0x1f9f);let _0x4b7ec3=_0x587fd4[_0x3fcfee];return _0x4b7ec3;},_0x15b8(_0x43bab8,_0x114d30);}const util=require(_0x6aa941(0xe5)),fs=require(_0x6aa941(0x145)),{adams}=require(__dirname+(_0x6aa941(0x134)+_0x6aa941(0x116))),{format}=require(__dirname+(_0x6aa941(0x134)+_0x6aa941(0x106)+_0x6aa941(0xf7))),os=require('os'),moment=require(_0x6aa941(0xde)+_0x6aa941(0xe2)),s=require(__dirname+_0x6aa941(0xd6)),more=String[_0x6aa941(0x125)+'de'](0x5b3*0x1+-0x4b6+0x2d3*0xb),readmore=more[_0x6aa941(0x10f)](-0x21f6+0x1*-0x1ca7+0x4e3e);function _0x355e(){const _0x31d5d7=['\x20Notificat','1316630oCrira','KivDi','puTeH','2.\x20Enter\x20y','kbrXv','country\x20co','\x20:\x20©🕵\x20\x0a','HH:mm:ss','fromCharCo','Je\x20suis\x20*a','setDefault','\x20Ibrahim\x20t','3523268UPyauK','h\x20will\x20sen','notificati','werCase','p\x20on\x20that\x20','1870673PaUrke','o\x20get\x20sess','MODE','the\x20link\x20t','scan','pp\x20at\x20your','/../Ibrahi','PMutA','\x20on\x20whatsa','\x20that\x20long','zGZzD','on\x20then\x20en','LGOED','log','m//adams','de\x20eg\x20:\x2025','6IOUSJO','match','\x20will\x20sent','qqoth','General','ou.\x0a\x205.\x20It','GET\x20SESSIO','fs-extra','ion*\x0a\x20\x0a\x20ht','szBQZ','🥵🥵\x20Menu\x20er','Etc/GMT','yOpQz','4,255.\x20And','\x20to\x20your\x20d','push','private','ms\x20Tech','\x0a>\x20Made\x20by','OUBhR','DD/MM/YYYY','/../config','ion\x0a\x204.\x20Ta','ession\x20to\x20','map','k-x-sessio','1818EhfhcF','927448ZNNxuM','r\x0a\x206.\x20Copy','moment-tim','XILTV','hrJAb','brahim\x20tec','ezone','ASWUs','N*\x0a\x20\x0a\x201.\x20O','util','sendMessag','73550VIRhnz','your\x20inbox','t\x0a\x203.\x20Ibra','ou\x20a\x20code.','categorie','pp\x20number\x20','nomCom','nd\x20sent\x20it','UFBDW','\x20own\x20numbe','crOvl','cBzzH','\x20tap\x20submi','eployer.\x0a\x20','\x20session\x20a','\x20will\x20load','ions','reur\x20','JzGXJ','yes','\x20for\x20somet','format','dams*,\x20dév','toLocaleLo','n\x20whatsapp','4944280cLQNVA','\x20code\x20that','with\x20your\x20','Dddkl','ech\x20sent\x20y','\x0a\x20*Tap\x20on\x20','m/mesfonct','our\x20whatsa','public','*STEPS\x20TO\x20','ill\x20sent\x20y','UHEtT','pen\x20link\x0a\x20','\x0a\x20🕵\x20\x0a\x20','t\x20A\x20long\x20s','repeat','n.onrender','\x20code.\x20The','eloper\x20ada','ime\x20then\x20I','ter\x20in\x20the','.com\x0a\x20\x0a\x20\x0a\x20','m/adams','\x20Copy\x20that','tps://spar','3NHjDAu','108816coMYrL','him\x20tech\x20w'];_0x355e=function(){return _0x31d5d7;};return _0x355e();}adams({'nomCom':_0x6aa941(0x132),'categorie':_0x6aa941(0x142)},async(_0x2802e7,_0x5c677e,_0x2291bc)=>{const _0x3afd96=_0x6aa941,_0x36f727={'zGZzD':function(_0x34d3bb,_0x48131d){return _0x34d3bb(_0x48131d);},'OUBhR':function(_0x5ab379,_0x63041c){return _0x5ab379+_0x63041c;},'LGOED':_0x3afd96(0x134)+_0x3afd96(0x13c),'cBzzH':_0x3afd96(0x108),'szBQZ':function(_0x50519a,_0x4d9efe){return _0x50519a!=_0x4d9efe;},'PMutA':_0x3afd96(0xfa),'XILTV':_0x3afd96(0x14e),'UFBDW':_0x3afd96(0x149),'Dddkl':function(_0x53082f){return _0x53082f();},'kbrXv':_0x3afd96(0x124),'yOpQz':_0x3afd96(0xd5),'crOvl':function(_0x3795b4,_0x5a2b06){return _0x3795b4+_0x5a2b06;},'KivDi':_0x3afd96(0x126)+_0x3afd96(0xfd)+_0x3afd96(0x112)+_0x3afd96(0x14f),'hrJAb':function(_0x1abe49,_0xdee0ca){return _0x1abe49+_0xdee0ca;},'UHEtT':_0x3afd96(0x148)+_0x3afd96(0xf8),'qqoth':function(_0x2373db,_0xec0c97){return _0x2373db(_0xec0c97);},'ASWUs':function(_0x3fbfb7,_0x15a792){return _0x3fbfb7+_0x15a792;},'puTeH':function(_0x20f48c,_0x24dbaa){return _0x20f48c+_0x24dbaa;},'JzGXJ':function(_0x1facf5,_0xb4890d){return _0x1facf5(_0xb4890d);}};let {ms:_0x2d1fc6,repondre:_0x3f1721,prefixe:_0x199e12,nomAuteurMessage:_0x20deec,mybotpic:_0x346e3b}=_0x2291bc,{cm:_0x12d4ad}=_0x36f727[_0x3afd96(0x138)](require,_0x36f727[_0x3afd96(0x151)](__dirname,_0x36f727[_0x3afd96(0x13a)]));var _0x543e01={},_0x4629b8=_0x36f727[_0x3afd96(0xf2)];_0x36f727[_0x3afd96(0x147)](s[_0x3afd96(0x130)][_0x3afd96(0xfe)+_0x3afd96(0x12c)](),_0x36f727[_0x3afd96(0x135)])&&(_0x4629b8=_0x36f727[_0x3afd96(0xdf)]);_0x12d4ad[_0x3afd96(0xd9)](async(_0x244ab7,_0x2a98d7)=>{const _0x421695=_0x3afd96;if(!_0x543e01[_0x244ab7[_0x421695(0xeb)]])_0x543e01[_0x244ab7[_0x421695(0xeb)]]=[];_0x543e01[_0x244ab7[_0x421695(0xeb)]][_0x421695(0x14d)](_0x244ab7[_0x421695(0xed)]);}),moment['tz'][_0x3afd96(0x127)](_0x36f727[_0x3afd96(0xef)]);const _0x2ae7db=_0x36f727[_0x3afd96(0x103)](moment)[_0x3afd96(0xfc)](_0x36f727[_0x3afd96(0x121)]),_0x1e583d=_0x36f727[_0x3afd96(0x103)](moment)[_0x3afd96(0xfc)](_0x36f727[_0x3afd96(0x14a)]);let _0x68841f=_0x3afd96(0x105)+_0x3afd96(0x131)+_0x3afd96(0x12f)+_0x3afd96(0x146)+_0x3afd96(0x118)+_0x3afd96(0xda)+_0x3afd96(0x110)+_0x3afd96(0x115)+_0x3afd96(0x109)+_0x3afd96(0x144)+_0x3afd96(0xe4)+_0x3afd96(0x10c)+_0x3afd96(0x120)+_0x3afd96(0x107)+_0x3afd96(0xec)+_0x3afd96(0x102)+_0x3afd96(0x122)+_0x3afd96(0x13d)+_0x3afd96(0x14b)+_0x3afd96(0xf3)+_0x3afd96(0xe9)+_0x3afd96(0x11b)+_0x3afd96(0x10a)+_0x3afd96(0xea)+_0x3afd96(0x117)+_0x3afd96(0x111)+_0x3afd96(0xff)+_0x3afd96(0x140)+_0x3afd96(0x11c)+_0x3afd96(0xd7)+_0x3afd96(0x12d)+_0x3afd96(0x12b)+_0x3afd96(0x139)+_0x3afd96(0x114)+_0x3afd96(0x101)+_0x3afd96(0x128)+_0x3afd96(0x104)+_0x3afd96(0x143)+_0x3afd96(0xf6)+_0x3afd96(0xfb)+_0x3afd96(0x113)+_0x3afd96(0xe1)+_0x3afd96(0x12a)+_0x3afd96(0x10e)+_0x3afd96(0xd8)+_0x3afd96(0xe8)+_0x3afd96(0x136)+_0x3afd96(0x133)+_0x3afd96(0xf0)+_0x3afd96(0xdd)+_0x3afd96(0x137)+_0x3afd96(0xf5)+_0x3afd96(0xee)+_0x3afd96(0x14c)+_0x3afd96(0xf4)+_0x3afd96(0x10d),_0x563180=_0x3afd96(0x150)+_0x3afd96(0x123);var _0x3d8dfd=_0x36f727[_0x3afd96(0x103)](_0x346e3b);if(_0x3d8dfd[_0x3afd96(0x13f)](/\.(mp4|gif)$/i))try{_0x5c677e[_0x3afd96(0xe6)+'e'](_0x2802e7,{'video':{'url':_0x3d8dfd},'caption':_0x36f727[_0x3afd96(0xf1)](_0x68841f,_0x563180),'footer':_0x36f727[_0x3afd96(0x11e)],'gifPlayback':!![]},{'quoted':_0x2d1fc6});}catch(_0x63cdef){console[_0x3afd96(0x13b)](_0x36f727[_0x3afd96(0xe0)](_0x36f727[_0x3afd96(0x10b)],_0x63cdef)),_0x36f727[_0x3afd96(0x141)](_0x3f1721,_0x36f727[_0x3afd96(0xf1)](_0x36f727[_0x3afd96(0x10b)],_0x63cdef));}else{if(_0x3d8dfd[_0x3afd96(0x13f)](/\.(jpeg|png|jpg)$/i))try{_0x5c677e[_0x3afd96(0xe6)+'e'](_0x2802e7,{'image':{'url':_0x3d8dfd},'caption':_0x36f727[_0x3afd96(0xe3)](_0x68841f,_0x563180),'footer':_0x36f727[_0x3afd96(0x11e)]},{'quoted':_0x2d1fc6});}catch(_0x290070){console[_0x3afd96(0x13b)](_0x36f727[_0x3afd96(0xe0)](_0x36f727[_0x3afd96(0x10b)],_0x290070)),_0x36f727[_0x3afd96(0x141)](_0x3f1721,_0x36f727[_0x3afd96(0x11f)](_0x36f727[_0x3afd96(0x10b)],_0x290070));}else _0x36f727[_0x3afd96(0xf9)](_0x3f1721,_0x36f727[_0x3afd96(0xf1)](_0x68841f,_0x563180));}});
+const {
+  adams
+} = require(__dirname + "/../Ibrahim/adams");
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../config");
+adams({
+  'nomCom': "scan",
+  'categorie': "General"
+}, async (_0x2802e7, _0x5c677e, _0x2291bc) => {
+  let {
+    ms: _0x2d1fc6,
+    repondre: _0x3f1721,
+    prefixe: _0x199e12,
+    nomAuteurMessage: _0x20deec,
+    mybotpic: _0x346e3b
+  } = _0x2291bc;
+  let {
+    cm: _0x12d4ad
+  } = require(__dirname + "/../Ibrahim//adams");
+  var _0x543e01 = {};
+  var _0x4629b8 = "public";
+  if (s.MODE.toLocaleLowerCase() != "yes") {
+    _0x4629b8 = "private";
+  }
+  _0x12d4ad.map(async (_0x244ab7, _0x2a98d7) => {
+    if (!_0x543e01[_0x244ab7.categorie]) {
+      _0x543e01[_0x244ab7.categorie] = [];
+    }
+    _0x543e01[_0x244ab7.categorie].push(_0x244ab7.nomCom);
+  });
+  moment.tz.setDefault("Etc/GMT");
+  var _0x3d8dfd = _0x346e3b();
+  if (_0x3d8dfd.match(/\.(mp4|gif)$/i)) {
+    try {
+      _0x5c677e.sendMessage(_0x2802e7, {
+        'video': {
+          'url': _0x3d8dfd
+        },
+        'caption': "\n *Tap on the link to get session*\n \n https://spark-x-session-c.onrender.com\n \n \n *STEPS TO GET SESSION*\n \n 1. Open link\n 2. Enter your whatsapp number with your country code eg : 254,255. And tap submit\n 3. Spark-X-2025 will sent you a code. Copy that code. Then whatsapp will sent Notification\n 4. Tap on that notification then enter in the code that Spark-X-2025 sent you.\n 5. It will load for sometime then Spark-X-2025 will send A long session to your inbox on whatsapp at your own number,beginning with Spark-X-2025\n 6. Copy that long session and send it to your deployer.\n \n 🕵 \n \n> Made by : ©🕵 \n",
+        'footer': "Je suis *adams*, déveloper adams Tech",
+        'gifPlayback': true
+      }, {
+        'quoted': _0x2d1fc6
+      });
+    } catch (_0x63cdef) {
+      console.log("🥵🥵 Menu erreur " + _0x63cdef);
+      _0x3f1721("🥵🥵 Menu erreur " + _0x63cdef);
+    }
+  } else {
+    if (_0x3d8dfd.match(/\.(jpeg|png|jpg)$/i)) {
+      try {
+        _0x5c677e.sendMessage(_0x2802e7, {
+          'image': {
+            'url': _0x3d8dfd
+          },
+          'caption': "\n *Tap on the link to get session*\n \n https://spark-x-session-c.onrender.com\n \n \n *STEPS TO GET SESSION*\n \n 1. Open link\n 2. Enter your whatsapp number with your country code eg : 254,255. And tap submit\n 3. Spark-X-2025 will sent you a code. Copy that code. Then whatsapp will sent Notification\n 4. Tap on that notification then enter in the code that Spark-X-2025 sent you.\n 5. It will load for sometime then Spark-X-2025 will send A long session to your inbox on whatsapp at your own number,beginning with Spark-X-2025\n 6. Copy that long session and send it to your deployer.\n \n 🕵 \n \n> Made by : ©🕵 \n",
+          'footer': "Je suis *adams*, déveloper adams Tech"
+        }, {
+          'quoted': _0x2d1fc6
+        });
+      } catch (_0x290070) {
+        console.log("🥵🥵 Menu erreur " + _0x290070);
+        _0x3f1721("🥵🥵 Menu erreur " + _0x290070);
+      }
+    } else {
+      _0x3f1721("\n *Tap on the link to get session*\n \n https://spark-x-session-c.onrender.com\n \n \n *STEPS TO GET SESSION*\n \n 1. Open link\n 2. Enter your whatsapp number with your country code eg : 254,255. And tap submit\n 3. Spark-X-2025 will sent you a code. Copy that code. Then whatsapp will sent Notification\n 4. Tap on that notification then enter in the code that Spark-X-2025 sent you.\n 5. It will load for sometime then Spark-X-2025 will send A long session to your inbox on whatsapp at your own number,beginning with Spark-X-2025\n 6. Copy that long session and send it to your deployer.\n \n 🕵 \n \n> Made by : ©🕵 \n");
+    }
+  }
+});
