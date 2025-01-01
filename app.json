@@ -93,7 +93,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after linking the device...(Make sure it begins with CYBERION)",   
+      "description":"put your session ID , the code you receive after linking the device...(Make sure it begins with SPARK-X-2025)",   
       "value":"",
       "required":true
       
