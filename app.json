@@ -83,11 +83,11 @@
     }
 	,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "insert your heroku api-key (this is must)",
      "required" :false
     },
   "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
+    "description": "insert your heroku APP NAME (this is a must)",
      "required" :false
     }  
 	  ,
