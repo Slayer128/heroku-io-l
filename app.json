@@ -186,10 +186,3 @@
                         "size": "basic"
                 }
         },
-
-  "addons":[
-    {
-      "plan":"heroku-postgresql"
-    }
-  ]
-}
