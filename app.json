@@ -11,7 +11,7 @@
   "name":"Spark-X-2025",
   "description":"Whatsapp bot developed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/a68lcc.jpg",
+  "logo":"https://files.catbox.moe/ql71vo.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -64,14 +64,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"CYBERION-SPARK-X",
+      "value":"Spark-X-2025",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/a68lcc.jpg",
+      "value":"https://files.catbox.moe/ql71vo.jpg",
       "required":false
        
      },
@@ -83,7 +83,7 @@
     }
 	,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is must)",
+    "description": "insert your heroku api-key (this is a must)",
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -186,3 +186,10 @@
                         "size": "basic"
                 }
         },
+
+  "addons":[
+    {
+      "plan":"heroku-postgresql"
+    }
+  ]
+}
